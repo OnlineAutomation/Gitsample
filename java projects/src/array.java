@@ -1,4 +1,3 @@
-
 public class array {
 
 	public static void main(String[] args) {
@@ -10,7 +9,7 @@ public class array {
 		int[] values;
 		values=new int[3];
 		values[0]=1;
-		values[1]=2;
+		values[1]=3;
 		values[2]=6;
 		//values[4]=5;
 		
