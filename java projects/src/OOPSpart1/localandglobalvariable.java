@@ -13,6 +13,7 @@ public class localandglobalvariable {
 		//to call global variable we need to create obj beacse it was a non static variables 
 		localandglobalvariable obj=new localandglobalvariable();
 		System.out.println(obj.age);
+		//Santhosh
 		///int w=obj.net(); //incase of using return in method we need to save value in one more variable like this..
 		//System.out.print(w); 
 		
