@@ -44,7 +44,7 @@ public class methodoverloading {
 	}
 	public void sum(int i ,int j)
 	{
-		System.out.println("with two input parameter"+i+j);
+		System.out.println("with two input parameter");
 		
 	}
 
